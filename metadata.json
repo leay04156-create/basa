@@ -1,0 +1,6 @@
+{
+  "name": "لوحة تحكم فندق فاخر",
+  "description": "نظام لوحة تحكم متكامل وفخم لإدارة الفنادق والنزلاء والحجوزات والغرف بشكل متكامل باللغة العربية وطابع فاخر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
